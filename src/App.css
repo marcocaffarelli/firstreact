@@ -1,0 +1,31 @@
+.Post{
+  border: 1px solid lightgrey;
+  display: felx;
+  justify-content: center;
+  flex-direction: column;
+  width: 300px;
+}
+
+.container{
+  text-align: center;
+  padding-bottom: 25px;
+}
+
+.titolo{
+  color: blue;
+}
+
+.contatore{
+  margin-bottom: 25px;
+  padding-bottom: 25px;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+}
+
+.post{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 25px;
+  border-bottom: 2px solid black;
+}
